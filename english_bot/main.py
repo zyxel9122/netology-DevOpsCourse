@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import database as db
 import handlers
 
-TOKEN = "8715238852:AAFiaS-hI9U2wPFddL6un7L9J-LPqdlxHIA"  # замени на свой токен
+TOKEN = "871523885.......dlxHIA"  # замени на свой токен
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s", level=logging.INFO
